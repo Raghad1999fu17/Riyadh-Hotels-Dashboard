@@ -25,4 +25,8 @@ Interactive Power BI dashboard to analyze Riyadh hotel data:
 3. Refer to `Riyadh Hotels Dashboard.pdf` for full explanation and screenshots.  
 
 ---
+
+📄 [View the full report (PDF)](Riyadh%20Hotels%20Dashboard.pdf)
+
+---
 ✨ This project was created as part of the SACAI Academy Data Analysis course.
